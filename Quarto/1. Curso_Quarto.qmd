@@ -1,0 +1,11 @@
+---
+title: Quarto para publicações
+subtitle: Curso ministrado por Keith Galli
+author: Matheus Fernandes
+---
+
+# Curso de Quarto 
+Documentação: https://quarto.org/docs/guide/
+
+Curso no YT:  https://www.youtube.com/watch?v=_VKxTPWDhA4
+
